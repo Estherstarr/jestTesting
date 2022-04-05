@@ -1,0 +1,24 @@
+{
+  "name": "jestTesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estherstarr/jestTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estherstarr/jestTesting/issues"
+  },
+  "homepage": "https://github.com/Estherstarr/jestTesting#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.17.7",
+    "jest": "^27.5.1"
+  }
+}
